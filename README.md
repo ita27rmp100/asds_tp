@@ -1,2 +1,2 @@
-# asdd_tp
-All the solutions to the lab series of the ASDD module in the second semester at ESTIN 2024/2025.
+# asds_tp
+All the solutions to the lab series of the ASDS module in the first semester at ESTIN 2024/2025.
