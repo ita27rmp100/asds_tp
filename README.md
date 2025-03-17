@@ -4,3 +4,11 @@ All the solutions to the lab series of the ASDS module in the first semester at 
 ## Series' list :
 I will add it as soon as possible inshallah
 ## How to execute it :
+
+**go to the folder of the serie you need and execute these two commands**
+```push
+    gcc exo[n].c -o exo[n]
+```
+
+```push
+    ./exo[n]
